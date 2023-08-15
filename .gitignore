@@ -1,0 +1,12 @@
+valve/SAVE/*
+platform/config/ServerBrowser.vdf
+Dosya_Kontrolcüsünü_Kaldır.exe
+*.mdl
+*.bsp
+*.txt
+*.wad
+*.bmp
+*.wav
+*.spr
+*.tga
+*.log
